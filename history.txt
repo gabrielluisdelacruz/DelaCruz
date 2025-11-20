@@ -1,0 +1,101 @@
+$ history
+    1  ls
+    2  -al
+    3  ls-al
+    4  ls - al
+    5  -al
+    6  ls-al
+    7  ls -al
+    8  cd documents
+    9  cd ..
+   10  mkdir DELA CRUZ
+   11  mkdir DELACRUZ
+   12  cd documents
+   13  mkdir DELA CRUZ
+   14  .ls
+   15  ls
+   16  mkdir DelaCruz
+   17  cd DelaCruz
+   18  touch text.txt
+   19  ls
+   20  ls
+   21  touch bringme.me
+   22  ls
+   23  touch readme.md
+   24  start readme.md
+   25  start readme.md
+   26  git init
+   27  ls -al
+   28  open .git
+   29  cd .git
+   30  ls
+   31  ;s - al
+   32  ls -al
+   33  cd ..
+   34  git status
+   35  git status
+   36  git add .
+   37  git status
+   38  git commit -m"first commit"
+   39  git commit -m"firstcommit"
+   40  git config --global user.name"
+git config --global user.name
+git config --global user.name"gabrielluisdelacruzspcp-prog"
+git config --global user.name
+git congif --global user.name"gabrielluisdelacruz"
+git config --global user.name"gabrielluisdelacruz"
+git config --global user.name
+git config --global user.email
+   41  git config --global user.email"gabrilluisdelacruz.spcp@gmail.com"
+   42  git config --global user.email
+   43  git commit -m"firstcommit"
+   44  git config --global user.email "gabrielluisdelacruzspcp.com"
+   45  git config --global user.email
+   46  git config --global user.name "gabrielluisdelacruz"
+   47  git config --global user.name
+   48  git commit -m"first commit"
+   49  git remote add origin https://github.com/gabrielluisdelacruz/DelaCruz.git
+   50  git push - u origin main
+   51  git push -u origin main
+   52  git remote add origin https://github.com/gabrielluisdelacruz/DelaCruz.git
+   53  push -u origin main
+   54  git remote add origin https://github.com/gabrielluisdelacruz/DelaCruz.git
+   55  push -u origin main
+   56  git status
+   57  git add .
+   58  git commit -m "firstcommit"
+   59  git remote add origin https://github.com/gabrielluisdelacruz/DelaCruz.git
+   60  push -u origin main
+   61  git push -u origin main
+   62  git remote add origin https://github.com/gabrielluisdelacruz/DelaCruz.git
+   63  git push -u origin main
+   64  git branch
+   65  git branch -M main
+   66  git push -u origin main
+   67  readme.md
+   68  start readme.md
+   69  git add .
+   70  git status
+   71  git add .
+   72  git status.
+   73  git status
+   74  git commit -m "SecondCommit"
+   75  git status
+   76  git push
+   77  git add .
+   78  git push
+   79  git status
+   80  git commit -m "Second Commit"
+   81  git add .
+   82  git status
+   83  git push
+   84  git commit -m
+   85  git commit -m "3rdcommit"
+   86  git clone  https://github.com/gabrielluisdelacruz/DelaCruz.git
+   87  cd DelaCruz
+   88  ls
+   89  history
+   90  create history.txt
+   91  touch history.txt
+   92  create history.txt
+   93  history
